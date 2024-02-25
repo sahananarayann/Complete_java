@@ -1,0 +1,1 @@
+This repository consists of complete Java implementations of common data structures and algorithms. It aims to serve as a learning resource and reference for developers studying or working with data structures and algorithms in Java.
